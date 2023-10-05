@@ -1,5 +1,4 @@
 # Excel-Challenge-1
-Module 19 Challenge
-For Grader: Use File Labeled Final Sheet Excel Challenge 1
-Thank You,
-- Kyle Novak
+Module 1 Challenge
+Word Document Labeled: KNOVAK_Excel Challenge_Crowfunding Questions, and Excel file labeled: KNovak_Excel Challenge 1_Final Sheet
+
